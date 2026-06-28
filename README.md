@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-warmer-sommerregen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ein warmer Sommerregen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-warmer-sommerregen/) |
+| **Get License** | [Secure Licensing Rights for Ein warmer Sommerregen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-warmer-sommerregen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tropfen auf dem Fenster, alles draußen zieht vorbei
+> Ein warmer Sommerregen, Baby, heute sind wir frei
+> Wir rasen durch die Streets, ja, wir fahren viel zu schnell
+> Die Nacht gehört nur uns und die City-Lights sind grell
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
