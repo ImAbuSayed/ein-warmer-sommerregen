@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-warmer-sommerregen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ein warmer Sommerregen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-warmer-sommerregen/) |
+| **Get License** | [Commercial Licensing for Ein warmer Sommerregen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-warmer-sommerregen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86e00a5ab5513603e49288b15c72e8a3e82d23d299f2caa2d8eb03bbd15d5686` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
